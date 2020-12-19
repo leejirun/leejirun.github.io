@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "Republic of Korea"
-title                    : "Site Title"
+title                    : "이지가 run하는 일상"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "leejirun"
@@ -98,6 +98,7 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Republic of Korea"
   email            :  "wldus9503@gmail.com"
+  github           : "https://github.com/leejirun"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
