@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "Republic of Korea"
 title                    : "이지가 run하는 일상"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : # 
 name                     : "leejirun"
 description              : "An amazing website."
 url                      : "https://leejirun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "leejirun"
   avatar           : "/assets/images/dog.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "개발 공부를 하며 기록하고 있습니다."
   location         : "Republic of Korea"
   email            :  "wldus9503@gmail.com"
   github           : "https://github.com/leejirun"
